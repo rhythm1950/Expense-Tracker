@@ -1,5 +1,5 @@
 # Expense-Tracker
-This is a website of Covid-19 Dashboard. I have developed it using HTML, CSS, JSX, React.js.
+This is an expense tracker app. I have developed it using HTML, CSS, JSX, React.js.
 
 ### Deployment
 | Environment | Link |
